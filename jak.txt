@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<title>
+AdoptMeow
+</title>
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="stylesheet" href="styl.css">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+<img src="cat-landing-hero-lg.png" width="1000"/>
+<body bg-image="cat-landing-hero-lg.png" text="grey">
+</header>
+
+<nav>
+<a class="menu" href="index.html">O nas</a><a class="menu active" href="aktualnosci.html">Aktualności</a><a class="menu" href="jak.html">Jak mogę pomóc?</a><a class="menu" href="#">Kontakt</a>
+</nav>
+
+<section>
+<article>
+<h1>Nasza strona ma na celu promowanie adopcji bezdomnych kotów<h1>
+</article>
+</section>
+
+<footer>
+To już wszystko, życzymy miłego dnia :)
+</footer>
+
+</div>
+</body>
+</html>
